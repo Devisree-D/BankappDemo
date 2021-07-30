@@ -1,0 +1,27 @@
+h1{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.container{
+    background-color: rgb(238, 243, 233);
+    border-style: solid;
+    width:700px ;
+    height:400px ;
+    margin-top: 5%;
+}
+
+#p1{
+    width: 600px;
+    height: 300px;
+    margin-left: 30%;
+    margin-top: 40%;
+
+}
+.btn{ margin-left: 30%;
+    margin-top: 5%;
+    width: 200px;
+    height: 52px;
+
+}
+
+
